@@ -10,7 +10,7 @@ The following example uses Docker and assumes you have Docker correctly installe
 
 Clone this project & cd into it:
 
-    git clone https://github.com/brazier/iso-builder-plucky && cd iso-builder-plucky
+    git clone https://github.com/brazier/ubuntu-sway-iso-builder-plucky && cd ubuntu-sway-iso-builder-plucky
 
 Configure the channel in the etc/terraform.conf (unstable, stable).
 
